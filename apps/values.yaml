@@ -33,3 +33,6 @@ services:
   bl01t-di-dcam-01:
     enabled: true
     targetRevision: main
+  bl01t-ea-andor-01:
+    enabled: true
+    targetRevision: main
