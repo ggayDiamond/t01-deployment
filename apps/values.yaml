@@ -36,5 +36,5 @@ services:
     enabled: true
     targetRevision: main
   bl01t-ea-andor-01:
-    enabled: true
+    enabled: false
     targetRevision: main
